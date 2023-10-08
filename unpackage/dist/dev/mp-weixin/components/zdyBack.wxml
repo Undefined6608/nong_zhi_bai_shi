@@ -1,0 +1,1 @@
+<view class="data-v-252536d8"><view class="toBack data-v-252536d8"><image class="arrow-icon data-v-252536d8" src="/static/left.png" bindtap="{{a}}"></image><view class="title data-v-252536d8">{{b}}</view><view class="more data-v-252536d8"></view></view></view>

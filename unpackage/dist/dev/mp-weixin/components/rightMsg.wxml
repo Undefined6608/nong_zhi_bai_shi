@@ -1,0 +1,1 @@
+<view class="content data-v-8d643797"><view class="title data-v-8d643797"><text class="name data-v-8d643797">{{a}}</text><image class="img data-v-8d643797" src="{{b}}" mode=""></image></view><view class="msg data-v-8d643797"><text class="context data-v-8d643797">{{c}}</text></view></view>

@@ -1,0 +1,27 @@
+.search.data-v-5fd12acd {
+  width: 100vw;
+  height: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ededed;
+  border-top: 2px solid #aaa;
+}
+.search .msg.data-v-5fd12acd {
+  width: 65%;
+  height: 40px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  background-color: #fff;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+.search .btn.data-v-5fd12acd {
+  width: 25%;
+  height: 40px;
+  border-radius: 20px;
+  background-color: cornflowerblue;
+  color: #fff;
+  line-height: 40px;
+}

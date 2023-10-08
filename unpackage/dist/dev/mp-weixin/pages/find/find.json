@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "发现",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#ededed",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "chaxun": "../../components/chaxun",
+    "uni-section": "../../uni_modules/uni-section/components/uni-section/uni-section"
+  }
+}

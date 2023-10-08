@@ -1,0 +1,1 @@
+<view class="search data-v-5fd12acd"><input class="msg data-v-5fd12acd" type="text" placeholder="请输入您的问题" value="{{a}}" bindinput="{{b}}"></input><button class="btn data-v-5fd12acd" bindtap="{{c}}">发送</button></view>

@@ -1,0 +1,15 @@
+.swiper.data-v-d42d60d2 {
+  width: 95vw;
+  height: 235rpx;
+  margin-top: 10px;
+}
+.swiper .swiper-item.data-v-d42d60d2 {
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.swiper .swiper-item .img.data-v-d42d60d2 {
+  width: 100%;
+  height: 100%;
+}

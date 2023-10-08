@@ -1,0 +1,103 @@
+/* 水平间距 */
+/* 水平间距 */
+.uni-section[data-v-637fd36b] {
+  background-color: #fff;
+}
+.uni-section .uni-section-header[data-v-637fd36b] {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 10px;
+  font-weight: normal;
+}
+.uni-section .uni-section-header__decoration[data-v-637fd36b] {
+  margin-right: 6px;
+  background-color: #2979ff;
+}
+.uni-section .uni-section-header__decoration.line[data-v-637fd36b] {
+  width: 4px;
+  height: 12px;
+  border-radius: 10px;
+}
+.uni-section .uni-section-header__decoration.circle[data-v-637fd36b] {
+  width: 8px;
+  height: 8px;
+  border-top-right-radius: 50px;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+.uni-section .uni-section-header__decoration.square[data-v-637fd36b] {
+  width: 8px;
+  height: 8px;
+}
+.uni-section .uni-section-header__content[data-v-637fd36b] {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  color: #333;
+}
+.uni-section .uni-section-header__content .distraction[data-v-637fd36b] {
+  flex-direction: row;
+  align-items: center;
+}
+.uni-section .uni-section-header__content-sub[data-v-637fd36b] {
+  margin-top: 2px;
+}
+.uni-section .uni-section-header__slot-right[data-v-637fd36b] {
+  font-size: 14px;
+}
+.uni-section .uni-section-content[data-v-637fd36b] {
+  font-size: 14px;
+}
+.b_c_h_z_z_d[data-v-18587b8b] {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.b_c_h_z_z_d .s[data-v-18587b8b] {
+  width: 95%;
+  height: auto;
+  margin: 10px auto;
+  box-sizing: border-box;
+  box-shadow: 0 2px 10px #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.b_c_h_z_z_d .s .list[data-v-18587b8b] {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.b_c_h_z_z_d .s .list .item[data-v-18587b8b] {
+  width: 23%;
+  height: 100px;
+  margin: 1%;
+  box-sizing: border-box;
+  box-shadow: 0 0 10px #ccc;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.b_c_h_z_z_d .s .list .item .icon[data-v-18587b8b] {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  box-sizing: border-box;
+  box-shadow: 0 0 10px #ccc;
+}
+.b_c_h_z_z_d .s .list .item .name[data-v-18587b8b] {
+  width: 70%;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+  background-color: #f0fcff;
+  border-radius: 12.5px;
+}

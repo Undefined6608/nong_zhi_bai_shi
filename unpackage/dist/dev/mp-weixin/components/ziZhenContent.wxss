@@ -1,0 +1,41 @@
+.zi_zhen_content.data-v-c9580966 {
+  width: 95vw;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.zi_zhen_content .select.data-v-c9580966 {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  box-shadow: 0 0 10px #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.zi_zhen_content .select .list.data-v-c9580966 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.zi_zhen_content .select .list .item.data-v-c9580966 {
+  width: 22%;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #f3f9f1;
+  box-shadow: 0 0 10px #ccc;
+  margin-top: 20px;
+}
+.zi_zhen_content .select .list .item .icon.data-v-c9580966 {
+  width: 60px;
+  height: 45px;
+}
+.zi_zhen_content .select .list .item .drup_name.data-v-c9580966 {
+  font-size: 13px;
+}

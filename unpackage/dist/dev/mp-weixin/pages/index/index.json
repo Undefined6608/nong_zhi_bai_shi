@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "农知百事",
+  "navigationBarBackgroundColor": "#ededed",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "banner": "../../components/banner",
+    "tui-jian": "../../components/tuiJian"
+  }
+}

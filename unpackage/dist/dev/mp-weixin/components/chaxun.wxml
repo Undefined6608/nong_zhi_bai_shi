@@ -1,0 +1,1 @@
+<view class="cx data-v-04e6e7f9"><view class="com data-v-04e6e7f9"><input class="{{['data-v-04e6e7f9', a]}}" type="text" placeholder="请输入需要查询的内容" value="{{b}}" bindinput="{{c}}"></input><button class="{{['btn', 'data-v-04e6e7f9', d]}}">查询</button></view></view>

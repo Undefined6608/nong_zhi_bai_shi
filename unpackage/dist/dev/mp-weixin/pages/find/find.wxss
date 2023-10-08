@@ -1,0 +1,124 @@
+.find.data-v-1c765c2e {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+.find .chaxun.data-v-1c765c2e {
+  width: 100vw;
+  height: 40px;
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
+.find .select.data-v-1c765c2e {
+  width: 95%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.find .select .item.data-v-1c765c2e {
+  width: 20%;
+  height: 25px;
+  line-height: 25px;
+  font-size: 12px;
+  background-color: #e7eaf5;
+  color: #000;
+  margin: 5px;
+  text-align: center;
+  border-radius: 12.5px;
+  box-sizing: border-box;
+  box-shadow: 0 0 5px #aaa;
+}
+.find .section.data-v-1c765c2e {
+  width: 95%;
+  height: auto;
+  margin: 10px auto;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.find .section .list.data-v-1c765c2e {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.find .section .list .item.data-v-1c765c2e {
+  width: 95%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px auto;
+  box-sizing: border-box;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+.find .section .list .item .icon.data-v-1c765c2e {
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin-top: 10px;
+  box-sizing: border-box;
+  box-shadow: 0 0 10px #ccc;
+}
+.find .section .list .item .name.data-v-1c765c2e {
+  width: 60%;
+  height: 25px;
+  line-height: 25px;
+  margin-top: 5px;
+  font-size: 13px;
+  border-radius: 12.5px;
+  background-color: #eef1f9;
+  text-align: center;
+}
+.find .section .list .item .name .name_con.data-v-1c765c2e {
+  font-weight: bold;
+}
+.find .section .list .item .context.data-v-1c765c2e,
+.find .section .list .item .shopping.data-v-1c765c2e {
+  width: 90%;
+  height: auto;
+  line-height: 30px;
+  margin: 5px auto;
+  font-size: 13px;
+  display: flex;
+  flex-direction: column;
+  border: 1px dashed #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 5px;
+  box-sizing: border-box;
+  box-shadow: 0 0 5px #aaa;
+}
+.find .section .list .item .context .title.data-v-1c765c2e,
+.find .section .list .item .shopping .title.data-v-1c765c2e {
+  font-size: 15px;
+  font-weight: bold;
+}
+.find .section .list .item .context .content.data-v-1c765c2e,
+.find .section .list .item .shopping .content.data-v-1c765c2e {
+  width: 95%;
+  height: auto;
+  margin: 10px auto;
+}
+.find .section .list .item .context .btn.data-v-1c765c2e,
+.find .section .list .item .shopping .btn.data-v-1c765c2e {
+  width: 100px;
+  height: 32px;
+  font-size: 15px;
+  line-height: 30px;
+  margin: 10px auto;
+  border: none;
+  background-color: #f2ecde;
+  border-radius: 10px;
+  box-sizing: border-box;
+  box-shadow: 0 0 10px #ccc;
+}

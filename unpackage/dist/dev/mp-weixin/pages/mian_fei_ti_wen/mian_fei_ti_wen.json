@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "免费提问",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#ededed",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "mftw-content": "../../components/mftwContent"
+  }
+}

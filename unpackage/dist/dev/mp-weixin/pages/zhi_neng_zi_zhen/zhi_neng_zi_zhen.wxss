@@ -1,0 +1,25 @@
+.z_n_z_z {
+  width: 100vw;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.z_n_z_z .pic {
+  width: 95%;
+  height: 200px;
+  margin-top: 10px;
+}
+.z_n_z_z .zi_zhen {
+  width: 95%;
+  flex: 1;
+  margin: 20px auto;
+}
+.z_n_z_z .pop {
+  position: absolute;
+  width: 100vw;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}

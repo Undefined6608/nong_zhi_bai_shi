@@ -1,0 +1,1 @@
+<view class="z_n_z_z"><picture-select class="pic" bindshow="{{a}}" u-i="115fae46-0" bind:__l="__l"></picture-select><zi-zhen-content class="zi_zhen" bindshow="{{b}}" u-i="115fae46-1" bind:__l="__l"></zi-zhen-content><picture-pop class="pop" data-c-h="{{!c}}" bindshow="{{d}}" u-i="115fae46-2" bind:__l="__l"></picture-pop></view>

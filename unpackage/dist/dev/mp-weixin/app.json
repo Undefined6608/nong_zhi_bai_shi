@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/mian_fei_ti_wen/mian_fei_ti_wen",
+    "pages/zhi_neng_zi_zhen/zhi_neng_zi_zhen",
+    "pages/find/find",
+    "pages/bing_chong_hai_zao_zhi_dao/bing_chong_hai_zao_zhi_dao",
+    "pages/ti_wen/ti_wen",
+    "pages/bchInner/bchInner"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "backgroundColor": "#f7f7f7",
+    "color": "#515151",
+    "selectedColor": "#1296db",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/icon_home.png",
+        "selectedIconPath": "static/icon_home_select.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/mian_fei_ti_wen/mian_fei_ti_wen",
+        "iconPath": "static/icon_ti_wen.png",
+        "selectedIconPath": "static/icon_ti_wen_select.png",
+        "text": "免费提问"
+      },
+      {
+        "pagePath": "pages/zhi_neng_zi_zhen/zhi_neng_zi_zhen",
+        "iconPath": "static/icon_zi_zhen.png",
+        "selectedIconPath": "static/icon_zi_zhen_select.png",
+        "text": "智能自诊"
+      },
+      {
+        "pagePath": "pages/find/find",
+        "iconPath": "static/icon_find.png",
+        "selectedIconPath": "static/icon_find_select.png",
+        "text": "发现"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

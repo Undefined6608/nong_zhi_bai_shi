@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "智能自诊",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#ededed",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "picture-select": "../../components/pictureSelect",
+    "zi-zhen-content": "../../components/ziZhenContent",
+    "picture-pop": "../../components/picturePop"
+  }
+}

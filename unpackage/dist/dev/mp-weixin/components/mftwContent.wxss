@@ -1,0 +1,85 @@
+.mftw_content.data-v-6a622a4f {
+  width: 100vw;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+.mftw_content .section.data-v-6a622a4f {
+  width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+.mftw_content .section .list.data-v-6a622a4f {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+}
+.mftw_content .section .list .item.data-v-6a622a4f {
+  width: 100%;
+  height: 80px;
+  margin-bottom: 10px;
+  box-shadow: 0 0 10px #ccc;
+  border-radius: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.mftw_content .section .list .item .img.data-v-6a622a4f {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  margin-left: 5px;
+}
+.mftw_content .section .list .item .msg.data-v-6a622a4f {
+  flex: 1;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 5px;
+}
+.mftw_content .section .list .item .msg .name.data-v-6a622a4f,
+.mftw_content .section .list .item .msg .type.data-v-6a622a4f,
+.mftw_content .section .list .item .msg .context.data-v-6a622a4f {
+  font-family: "宋体";
+  width: 100%;
+}
+.mftw_content .section .list .item .msg .name.data-v-6a622a4f {
+  font-size: 13px;
+  font-weight: bold;
+}
+.mftw_content .section .list .item .msg .type.data-v-6a622a4f {
+  font-size: 12px;
+}
+.mftw_content .section .list .item .msg .context.data-v-6a622a4f {
+  font-size: 10px;
+  color: #6a6a6a;
+}
+.mftw_content .section .list .item .gz.data-v-6a622a4f,
+.mftw_content .section .list .item .tw.data-v-6a622a4f {
+  width: 50px;
+  height: 20px;
+  font-size: 13px;
+  line-height: 20px;
+  text-align: center;
+  margin-right: 5px;
+}
+.mftw_content .section .list .item .gz.data-v-6a622a4f {
+  color: #eacd76;
+  border: 2px solid #eacd76;
+}
+.mftw_content .section .list .item .ygz.data-v-6a622a4f {
+  color: #ccc;
+  border: 2px solid #ccc;
+}
+.mftw_content .section .list .item .tw.data-v-6a622a4f {
+  color: #21a675;
+  border: 2px solid #21a675;
+}

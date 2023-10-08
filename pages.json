@@ -1,0 +1,108 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "农知百事",
+			"navigationBarBackgroundColor": "#ededed",
+			"navigationBarTextStyle": "black"
+		}
+	}, {
+		"path": "pages/mian_fei_ti_wen/mian_fei_ti_wen",
+		"style": {
+			"navigationBarTitleText": "免费提问",
+			"enablePullDownRefresh": false,
+			"navigationBarBackgroundColor": "#ededed",
+			"navigationBarTextStyle": "black"
+
+		}
+
+	}, {
+		"path": "pages/zhi_neng_zi_zhen/zhi_neng_zi_zhen",
+		"style": {
+			"navigationBarTitleText": "智能自诊",
+			"enablePullDownRefresh": false,
+			"navigationBarBackgroundColor": "#ededed",
+			"navigationBarTextStyle": "black"
+		}
+
+	}, {
+		"path": "pages/find/find",
+		"style": {
+			"navigationBarTitleText": "发现",
+			"enablePullDownRefresh": false,
+			"navigationBarBackgroundColor": "#ededed",
+			"navigationBarTextStyle": "black"
+		}
+
+	}, {
+		"path": "pages/bing_chong_hai_zao_zhi_dao/bing_chong_hai_zao_zhi_dao",
+		"style": {
+			"navigationBarTitleText": "病虫害早知道",
+			"enablePullDownRefresh": false,
+			"navigationBarBackgroundColor": "#ededed",
+			"navigationBarTextStyle": "black"
+		}
+
+	}, {
+		"path": "pages/ti_wen/ti_wen",
+		"style": {
+			"navigationBarTitleText": "消息页面",
+			"enablePullDownRefresh": false,
+			"navigationStyle": "custom"
+		}
+
+	}    ,{
+            "path" : "pages/bchInner/bchInner",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "植物数据",
+                "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#ededed",
+				"navigationBarTextStyle": "black"
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"tabBar": {
+		"backgroundColor": "#f7f7f7",
+		"color": "#515151",
+		"fontSize": "12px",
+		"iconWidth": "25px",
+		"height": "62px",
+		"selectedColor": "#1296db",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/icon_home.png",
+				"selectedIconPath": "static/icon_home_select.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/mian_fei_ti_wen/mian_fei_ti_wen",
+				"iconPath": "static/icon_ti_wen.png",
+				"selectedIconPath": "static/icon_ti_wen_select.png",
+				"text": "免费提问"
+			},
+			{
+				"pagePath": "pages/zhi_neng_zi_zhen/zhi_neng_zi_zhen",
+				"iconPath": "static/icon_zi_zhen.png",
+				"selectedIconPath": "static/icon_zi_zhen_select.png",
+				"text": "智能自诊"
+			},
+			{
+				"pagePath": "pages/find/find",
+				"iconPath": "static/icon_find.png",
+				"selectedIconPath": "static/icon_find_select.png",
+				"text": "发现"
+			}
+		]
+	}
+}

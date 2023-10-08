@@ -1,0 +1,23 @@
+.toBack.data-v-252536d8 {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  padding: 70rpx 20rpx;
+  width: 100%;
+  height: calc(96rpx + 20px);
+  background-color: #ededed;
+  text-align: center;
+  font-size: 32rpx;
+  font-weight: 400;
+  color: #333333;
+  border-top: 1px solid #FFF8F8F8;
+}
+.toBack .arrow-icon.data-v-252536d8 {
+  width: 40rpx;
+  height: 40rpx;
+  margin: auto 0;
+  line-height: 40rpx;
+}
+.toBack .title.data-v-252536d8 {
+  font-weight: bold;
+}

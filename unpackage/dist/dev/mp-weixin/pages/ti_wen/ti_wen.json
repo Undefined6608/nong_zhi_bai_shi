@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "消息页面",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "zdy-back": "../../components/zdyBack",
+    "search": "../../components/search",
+    "ti-wen-content": "../../components/tiWenContent"
+  }
+}

@@ -1,0 +1,22 @@
+.pic_select.data-v-cf8bab18 {
+  width: 95vw;
+  height: 100%;
+  box-shadow: 0 0 10px #ccc;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #fcefe8;
+}
+.pic_select .picker.data-v-cf8bab18 {
+  width: 90px;
+  height: 90px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+}
+.pic_select .picker .file_picker.data-v-cf8bab18 {
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "植物数据",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#ededed",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "uni-section": "../../uni_modules/uni-section/components/uni-section/uni-section"
+  }
+}
